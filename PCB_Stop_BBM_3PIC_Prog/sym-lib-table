@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Stop_BBM_3PIC-rescue)(type Legacy)(uri ${KIPRJMOD}/Stop_BBM_3PIC-rescue.lib)(options "")(descr ""))
+)

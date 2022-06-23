@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name Stop_BBM_3PIC)(type KiCad)(uri "${KIPRJMOD}/Librairie Stop_BBM_3PIC/Stop_BBM_3PIC.pretty")(options "")(descr ""))
-)

@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name dagostino_stop_BirdBuzzMouse-rescue)(type Legacy)(uri ${KIPRJMOD}/dagostino_stop_BirdBuzzMouse-rescue.lib)(options "")(descr ""))
-  (lib (name STP_BBM_E0C1R0-rescue)(type Legacy)(uri ${KIPRJMOD}/STP_BBM_E0C1R0-rescue.lib)(options "")(descr ""))
-  (lib (name Stop_BBM_3PIC)(type Legacy)(uri "${KIPRJMOD}/Librairie Stop_BBM_3PIC/Stop_BBM_3PIC_LIB/Stop_BBM_3Footprint.lib")(options "")(descr ""))
-)
