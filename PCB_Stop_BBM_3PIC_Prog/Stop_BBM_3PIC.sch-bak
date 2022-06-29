@@ -5,13 +5,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Stop_BSB_3PIC"
+Title "Bed of Nails Stop_BSB_3PIC"
 Date "2022-02-03"
-Rev "V1.1"
+Rev "for V1.1"
 Comp "ADTP"
 Comment1 "Voir Readme.txt"
 Comment2 "https://github.com/benoitGIRAUD/STOP_BBM_3PIC"
-Comment3 ""
+Comment3 "Auteur: Benoît"
 Comment4 ""
 $EndDescr
 $Bitmap
@@ -1072,4 +1072,10 @@ Wire Notes Line
 	10050 3080 10050 4670
 Wire Notes Line
 	10050 4670 8010 4670
+Text Notes 4905 3040 0    50   ~ 0
+ICSPDAT probes for PIC10 and PIC12
+Text Notes 8010 3040 0    50   ~ 0
+Probes for mechanical support
+Text Notes 5370 4420 0    50   ~ 0
+pick signal on HP
 $EndSCHEMATC

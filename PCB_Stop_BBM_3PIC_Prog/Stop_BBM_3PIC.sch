@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:Stop_BBM_3PIC-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1078,4 +1077,6 @@ Text Notes 8010 3040 0    50   ~ 0
 Probes for mechanical support
 Text Notes 5370 4420 0    50   ~ 0
 pick signal on HP
+Text Notes 4915 7715 0    50   ~ 0
+0.8 mm de diamètre pour rentrer en force le fût
 $EndSCHEMATC
